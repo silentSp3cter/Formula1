@@ -5,7 +5,7 @@ The purpose of this project is to analyze and exxplore various data points in Fo
 
 ## Data Collection
 
-Files : `API_data`, `data`
+Files : `API_data`
 
 For my data mining I used the [Ergast F1](https://ergast.com/mrd/) data repository, which contain information about all the championships and races from 
 1950 till date.
@@ -14,6 +14,8 @@ qualifications and weather into a single dataframe.
 
 
 ## EDA
+
+Files : `f1_analysis`
 
 ### How have lap speeds evolved over the last 10 years?
 
