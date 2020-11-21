@@ -19,10 +19,6 @@ Files : `f1_analysis`
 
 ### How have lap speeds evolved over the last 10 years?
 
-During qualification sessions the drivers try to set their fastest time around the track and the grid position
-is determined by the drivers' best single lap, with the fastest on pole position. Starting on pole position is crucial
-in those circuits where overtaking is more difficult, in addition to having the advantage of staring a few meters ahead
-and on the normal racing line, which is usually cleaner and has more grip. The following graph shows the correlation between
-staring in pole position and winning the race in some of the most popular circuits.
+We can see that the lap speeds have obviously seen a steady increase over the last 10 years. However, we see that post 2014, the average speeds have risen faster per year post the 1.6 V6 Turbo Engine rule change.
 
 ![](Images/lap_speed.png)
