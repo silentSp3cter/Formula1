@@ -25,4 +25,4 @@ in those circuits where overtaking is more difficult, in addition to having the 
 and on the normal racing line, which is usually cleaner and has more grip. The following graph shows the correlation between
 staring in pole position and winning the race in some of the most popular circuits.
 
-![](images/lap_speed.png)
+![](Images/lap_speed.png)
