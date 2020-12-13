@@ -4,6 +4,14 @@
 
 The purpose of this project is to analyze and explore various data points in Formula 1. I also tried to build a model to predict whether a driver will finish in the podiums or not.
 
+## Data Collection
+Initially, I had found this dataset on the popular data science community Kaggle. Then I found that this was in turn taken from the Ergast website. Since, the datasets on kaggle were quite outdated, I downloaded all the datasets from Ergast. Ergast has the option to use it's API to gather the data, but I found it easier to download all the data and use it.
+
+The dataset had multiple .CSV files with each containing primary keys to allow for merging the data. The files that originally came with the data set are:
+
+Files : `f1_analysis`
+
+
 ## EDA
 
 Files : `f1_analysis`
