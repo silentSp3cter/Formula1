@@ -9,15 +9,36 @@ Initially, I had found this dataset on the popular data science community Kaggle
 
 The dataset had multiple .CSV files with each containing primary keys to allow for merging the data. The files that originally came with the data set are:
 
-Files : `f1_analysis`
+Dataset Files:
 
+`circuits.csv`
+`constructor_results.csv`
+`constructor_standings.csv`
+`constructors.csv`
+`driver_standings.csv`
+`drivers.csv`
+`lap_times.csv`
+`pit_stops.csv`
+`qualifying.csv`
+`races.csv`
+`results.csv`
+`seasons.csv`
+`status.csv`
+
+All the files were merged to create a final data frame called: `final_data.csv`
 
 ## EDA
 
 Files : `f1_analysis`
 
+### Worldwide circuit distribution.
+
+We see most of the circuits are concentrated in Europe, followed by America.
+
+![](Images/circuit_world.png)
+
 ### How have lap speeds evolved over the last 10 years?
 
 We can see that the lap speeds have obviously seen a steady increase over the last 10 years. However, we see that post 2014, the average speeds have risen faster per year post the 1.6 V6 Turbo Engine rule change.
 
-![](Images/lap_speed.png)
+![](Images/yearly_speeds.png)
