@@ -4,17 +4,6 @@
 
 The purpose of this project is to analyze and explore various data points in Formula 1. I also tried to build a model to predict whether a driver will finish in the podiums or not.
 
-
-## Data Collection
-
-Files : `API_data`
-
-For my data mining I used the [Ergast F1](https://ergast.com/mrd/) data repository, which contain information about all the championships and races from 
-1950 till date.
-Eventually I combined all the data about races, results, drivers and constructors standing positions, 
-qualifications and weather into a single dataframe.
-
-
 ## EDA
 
 Files : `f1_analysis`
