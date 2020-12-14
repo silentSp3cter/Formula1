@@ -43,6 +43,19 @@ The British and Itaian GPs have been hosted the most with a tally of 71 each.
 
 ![](Images/grandprix.png)
 
+### Most dangerous circuits?
+
+Of course it is Monaco. With Monaco being a steet circuit, it has seen a lot of incidents. Surprisingly, Silverstone also has a fairly high record of incidents. Could be due to the fact that it has hosted the most number of GPs till date and the numbers have piled up over the years. It's not surprising to see that Monza (The temple of Speed) has seen so many incidents.
+
+![](Images/dangerous_circuits.png)
+
+### The fastest circuits?
+
+The temple of Speed (Monza) is no doubt the one with the highest average top speeds. However, Spa-Francorchamps and Silverstone are not that far behind. Monaco and Marina Bay have the slowest speeds. After all they are street circuits with very tight corners.
+
+![](Images/fastest_circuits.png)
+
+
 ### How have lap speeds evolved over the last 10 years?
 
 We can see that the lap speeds have obviously seen a steady increase over the last 10 years. However, we see that post 2014, the average speeds have risen faster per year post the 1.6 V6 Turbo Engine rule change.
