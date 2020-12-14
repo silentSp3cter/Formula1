@@ -1,4 +1,4 @@
-# Readme is Work in Progress. However, you can download the code and data files for the full project.
+# Readme is Work in Progress. However, code is complete. Refer `f1_analysis.ipynb`
 
 # Formula 1 Data Analysis
 
