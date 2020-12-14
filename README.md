@@ -37,8 +37,15 @@ We see most of the circuits are concentrated in Europe, followed by America.
 
 ![](Images/circuit_world.png)
 
+### Most hosted Grand Prixs?
+
+The British and Itaian GPs have been hosted the most with a tally of 71 each.
+
+![](Images/grandprix.png)
+
 ### How have lap speeds evolved over the last 10 years?
 
 We can see that the lap speeds have obviously seen a steady increase over the last 10 years. However, we see that post 2014, the average speeds have risen faster per year post the 1.6 V6 Turbo Engine rule change.
 
-![](Images/yearly_speeds.png)
+![](Images/fspeeds_10y.png)
+
