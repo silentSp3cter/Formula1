@@ -1,4 +1,4 @@
-# Work in Progress
+# Readme is Work in Progress. However, you can download the code and data files for the full project.
 
 # Formula 1 Data Analysis
 
