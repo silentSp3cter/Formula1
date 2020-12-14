@@ -62,3 +62,12 @@ We can see that the lap speeds have obviously seen a steady increase over the la
 
 ![](Images/fspeeds_10y.png)
 
+### Some of the shortest circuits - Evident by the fast lap times.
+
+Red Bull ring, Jose Carlos (This is shorter than the red bull ring, but the average speeds in the red bull ring are quite high), Hockenheimring. 
+
+![](Images/shortest_circuits.png)
+
+### Lap times over the past 10 years.
+
+![](Images/laptimes_10y.png)
