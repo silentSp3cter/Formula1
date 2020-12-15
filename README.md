@@ -71,3 +71,17 @@ Red Bull ring, Jose Carlos (This is shorter than the red bull ring, but the aver
 ### Lap times over the past 10 years.
 
 ![](Images/laptimes_10y.png)
+
+### Pit Stops
+
+Unfortunately, we do not have pit stop information before 2011, hence, we are limited to the data points only after then. Looking at the charts, we see that the average stop time has actually gone higher up. This could be due to the pit lane speed limits. Earlier the speed limits were higher than today, hence resulting in shorter pit times. Please note, the pit time is inclusive of the stationary time and the time the car is in the pit lane.
+
+![](Images/stoptime_10y.png)
+
+### Number of Stops
+
+Most circuits follow the 2-stop or 1-stop strategy. But this varies widely, depending on the weather, any incidents on track, etc.
+
+![](Images/no_stops_circuit.png)
+
+![](Images/cuircuit_stopTimes.png)
