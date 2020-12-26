@@ -85,3 +85,19 @@ Most circuits follow the 2-stop or 1-stop strategy. But this varies widely, depe
 ![](Images/no_stops_circuit.png)
 
 ![](Images/cuircuit_stopTimes.png)
+
+### Constructors by Nationality
+
+Most of the constructors that have taken part in the Grand Prixs over the years are British, followed by American teams.
+
+![](Images/constructor_by_nationality.png)
+
+### Drivers by Nationality
+
+Most drivers are American or British by nationality followed by Italians. Most of them have entered the world or F1 racing post 25. The youngest debutant in F1 is Max Verstappen at the age of 17 years. However, due to the year wise calculation, his age is reflecting as 18 over here.
+
+![](Images/drivers_by_nationality.png)
+
+![](Images/debutants_age.png)
+
+![](Images/youngest_drivers.png)
