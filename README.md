@@ -1,5 +1,3 @@
-# Readme is Work in Progress. However, code is complete. Refer `f1_analysis.ipynb`
-
 # Formula 1 Data Analysis
 
 The purpose of this project is to analyze and explore various data points in Formula 1. I also tried to build a model to predict whether a driver will finish in the podiums or not.
@@ -101,3 +99,15 @@ Most drivers are American or British by nationality followed by Italians. Most o
 ![](Images/debutants_age.png)
 
 ![](Images/youngest_drivers.png)
+
+A lot more data points have been explored in the `f1_analysis.ipynb` file.
+
+The next challenge was to try and predict whether a driver will be finishing in the podiums or not based on their performance in the Qualifiers, previous performance, etc.
+
+I tried running only an XGBoost model and that returned a 93% accuracy.
+
+![](Images/model_accuracy.png)
+
+However, this works good only for races that have been completed as there are a few variables like the fastest lap, fastest lap speed, etc which are only available post the race. I am continuously trying to improve this by doing some feature engineering. However, my primary objective on the dataset was to explore various data points and not build a prediction model.
+
+If there are any ways I can improve this, please comment so I can make this better.
